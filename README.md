@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kiranjd
 - 👀 I’m interested in front-end, cross-platform mobile development
-- 🌱 I’m currently learning unit testing using RTNL
+- 🌱 I’m currently learning TypeScript and performance tuning mobile apps
 - 📫 How to reach me kiranjd8@gmail.com
 
 <!---
